@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "../../NodeJS"
+		},
+		{
+			"path": "../../NodeWithSequelize"
+		},
+		{
+			"path": "../../Sequelize"
+		},
+		{
+			"path": "../../SequelizeAssignment"
+		},
+		{
+			"path": "../../express"
+		},
+		{
+			"path": "../../expressAssignment"
+		},
+		{
+			"path": "../../SeqExpress"
+		},
+		{
+			"path": "../../Angular/AngularCRUD"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Angular/demo"
+		},
+		{
+			"path": "../../backend"
+		},
+		{
+			"path": "../../unitTest"
+		},
+		{
+			"path": "../../node-unit-test-case"
+		},
+		{
+			"path": "../../Angular/simpleSRM"
+		},
+		{
+			"path": "../../INT-UNIT-TOD"
+		}
+	]
+}
